@@ -1,13 +1,13 @@
-import 'package:calendar_timeline/calendar_timeline.dart';
 import 'package:flutter/cupertino.dart';
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
-import 'package:to_do/MyTheme.dart';
-import 'package:to_do/setting_tab.dart';
-import 'package:to_do/tasks_tab.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'TaskBottomSheet.dart';
-import 'app_config_provider.dart';
+import 'package:provider/provider.dart';
+import 'package:to_do/setting/MyTheme.dart';
+import 'package:to_do/setting/setting_tab.dart';
+import 'package:to_do/task/tasks_tab.dart';
+
+import 'providers/app_config_provider.dart';
+import 'task/TaskBottomSheet.dart';
 
 class Home_screen extends StatefulWidget {
   static const String routeName = 'home';

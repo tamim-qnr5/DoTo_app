@@ -1,8 +1,9 @@
 import 'package:flutter/material.dart';
-import 'package:provider/provider.dart';
 import 'package:flutter_gen/gen_l10n/app_localizations.dart';
-import 'package:to_do/MyTheme.dart';
-import 'app_config_provider.dart';
+import 'package:provider/provider.dart';
+import 'package:to_do/setting/MyTheme.dart';
+
+import '../providers/app_config_provider.dart';
 
 class ThemeBottomSheet extends StatefulWidget {
   const ThemeBottomSheet({super.key});

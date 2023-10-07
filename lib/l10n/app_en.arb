@@ -1,15 +1,16 @@
 {
  "settings" : "Settings",
  "language" : "Language",
- "arabic" : "Arabic",
- "english" : "English",
- "theme" : "Theme",
- "dark" : "Dark",
- "light" : "Light",
- "title" : "To Do List",
- "addNewTask" : "Add New Task",
- "enterTask" : "Enter Your Task",
- "enterDes" : "Enter Your Task Description",
- "selectTime" : "Select Time",
- "add" : "Add"
+  "arabic": "Arabic",
+  "english": "English",
+  "theme": "Theme",
+  "dark": "Dark",
+  "light": "Light",
+  "title": "To Do List",
+  "addNewTask": "Add New Task",
+  "enterTask": "Enter Your Task",
+  "enterDes": "Enter Your Task Description",
+  "selectTime": "Select Time",
+  "add": "Add",
+  "done": "Done!"
 }
