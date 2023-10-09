@@ -86,7 +86,6 @@ class _TaskBottomSheetState extends State<TaskBottomSheet> {
                       maxLines: 2,
                       decoration: InputDecoration(
                           enabledBorder: UnderlineInputBorder(
-                            //<-- SEE HERE
                             borderSide: BorderSide(
                               color: (provider.appMode == ThemeMode.light)
                                   ? MyTheme.blackColor
